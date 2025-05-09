@@ -4,6 +4,7 @@ Proyectos sugeridos por chatGPT.
 
 | ✅ | Proyecto                              | Tecnología(s)       | Estado       | Mejoras / Ideas futuras              |
 |----|---------------------------------------|---------------------|--------------|--------------------------------------|
+| ✅ | [Calculadora simple](https://github.com/CabelloEduardo/calculadora-basica)                    | Python              | No iniciado  | Agregar funciones avanzadas          
 | ☐  | Conversor de monedas                  | Python              | No iniciado  | Usar tasas en tiempo real            |
 | ☐  | Generador de contraseñas              | Python              | No iniciado  | Agregar opciones de complejidad      |
 | ☐  | Adivina el número                     | Python              | No iniciado  | Mostrar historial de intentos        |
